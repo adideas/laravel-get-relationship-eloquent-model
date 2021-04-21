@@ -1,0 +1,13 @@
+
+    "require": {
+        "adideas/laravel-get-relationship-eloquent-model": "dev-master",
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../adideas/laravel-get-relationship-eloquent-model/"
+        }
+    ],
+    "require-dev": {
+    },
+
