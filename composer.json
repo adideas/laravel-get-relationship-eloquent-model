@@ -1,0 +1,30 @@
+{
+  "name": "adideas/laravel-get-relationship-eloquent-model",
+  "description": "Laravel get relationship eloquent models",
+  "authors": [
+    {
+      "name": "Alexey Vlasov (adideas)",
+      "homepage": "https://github.com/adideas",
+      "role": "Developer"
+    }
+  ],
+  "type": "library",
+  "keywords": [
+    "Laravel",
+    "relationship",
+    "relations",
+    "eloquent",
+    "models",
+    "model",
+    "get all"
+  ],
+  "license": "MIT",
+  "require": {
+    "laravel/framework": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Adideas\\RelationFinder\\": "src"
+    }
+  }
+}
